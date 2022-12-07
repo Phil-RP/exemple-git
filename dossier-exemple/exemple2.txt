@@ -1,0 +1,3 @@
+# Fichier exemple2.txt
+
+Il ne contient pas grand chose.
